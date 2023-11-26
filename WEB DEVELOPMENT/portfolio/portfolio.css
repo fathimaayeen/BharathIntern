@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.follow-us-icon-container {
+    background-color: black;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+}
+
+.icon {
+    color: #80bfff;
+    font-size: 35px;
+}
+
+.footer-section-address {
+    width: 100%;
+    background-color: black;
+    color: white;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.h1 {
+    font-family: Sans-Serif;
+    color: black;
+    font-size: 25px;
+}
+
+.back {
+    font-family: Sans-Serif;
+    color: black;
+}
+
+.head1 {
+    font-family: Sans-Serif;
+}
+
+.head {
+    margin: 15px;
+    text-align: center;
+    font-family: Sans-Serif;
+    color: black;
+    padding: 25px;
+}
+
+.u {
+    text-decoration: underline;
+    text-decoration-color: green;
+    text-decoration-thickness: 3px;
+}
