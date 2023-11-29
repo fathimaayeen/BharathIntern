@@ -1,0 +1,38 @@
+.bg {
+    height: 100vh;
+    background-size: cover;
+}
+
+.con {
+    background: hsl(180, 100%, 80%);
+    border-radius: 15px;
+    width: 85%;
+    text-align: center;
+}
+
+.h1 {
+    font-size: 35px;
+}
+
+.temp {
+    width: 100%;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+input {
+    width: 60%;
+    font-family: Times New Roman;
+    padding: 5px;
+    outline: none;
+    background: white;
+
+    color: black;
+    font-size: 20px;
+}
+
+input::placeholder {
+    color: #ff6666;
+}
